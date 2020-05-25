@@ -17,7 +17,7 @@ And if you want, you can reach me at carter.wa.daniels@gmail.com
 * [Photography]
 
 
-### Social Media
+## Social Media
 
 * [Twitter](https://twitter.com/cwdanielsRW)
 
