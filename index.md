@@ -7,6 +7,6 @@ And if you want, you can reach me at: carter.wa.daniels@gmail.com
 ### Social Media
 
 1.[Twitter](https://twitter.com/cwdanielsRW)
-1.[Google Scholar](https://scholar.google.com/citations?user=BTGMcAoAAAAJ&hl=en&oi=ao)
-1.[Researchgate](https://www.researchgate.net/profile/Carter_Daniels)
+2.[Google Scholar](https://scholar.google.com/citations?user=BTGMcAoAAAAJ&hl=en&oi=ao)
+3.[Researchgate](https://www.researchgate.net/profile/Carter_Daniels)
 
