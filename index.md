@@ -4,7 +4,7 @@ Hi! I'm Carter W. Daniels, Ph.D. Currently, I am a T32 Post-doctoral Fellow in S
 
 And if you want, you can reach me at carter.wa.daniels@gmail.com
 
-##Links:
+## Links:
 
 1.[Projects](drcwadaniels.github.io/Projects.md)
 
