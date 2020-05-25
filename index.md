@@ -5,5 +5,7 @@ Hi! I'm Dr. Carter W. Daniels. Currently, I am a T32 Post-doctoral Fellow in Sch
 And if you want, you can reach me at: carter.wa.daniels@gmail.com
 
 ### Social Media
-[Twitter](https://twitter.com/cwdanielsRW)[Google Scholar](https://scholar.google.com/citations?user=BTGMcAoAAAAJ&hl=en&oi=ao)[Researchgate](https://www.researchgate.net/profile/Carter_Daniels)
+[Twitter](https://twitter.com/cwdanielsRW)
+[Google Scholar](https://scholar.google.com/citations?user=BTGMcAoAAAAJ&hl=en&oi=ao)
+[Researchgate](https://www.researchgate.net/profile/Carter_Daniels)
 
