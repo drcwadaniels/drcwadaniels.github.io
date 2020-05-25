@@ -7,23 +7,15 @@ And if you want, you can reach me at carter.wa.daniels@gmail.com
 ## Links
 
 * [Curriculum Vitae](CV.md)
-
-* [Code]
-
-* [Academic Writing]
-
-* [Non-academic Writing]
-
-* [Photography]
-
+* [Code](code.md)
+* [Photography](photography.md)
+* [Writing](writing.md)
+* [Updates](updates.md) <- This is where I post blog updates and will always be updated when the website is updated. 
 
 ## Social Media
 
 * [Twitter](https://twitter.com/cwdanielsRW)
-
 * [Google Scholar](https://scholar.google.com/citations?user=BTGMcAoAAAAJ&hl=en&oi=ao)
-
 * [Researchgate](https://www.researchgate.net/profile/Carter_Daniels)
-
 * [Open Science Framework](https://osf.io/profile/)
 
