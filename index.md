@@ -19,11 +19,11 @@ And if you want, you can reach me at carter.wa.daniels@gmail.com
 
 ### Social Media
 
-1.[Twitter](https://twitter.com/cwdanielsRW)
+* [Twitter](https://twitter.com/cwdanielsRW)
 
-2.[Google Scholar](https://scholar.google.com/citations?user=BTGMcAoAAAAJ&hl=en&oi=ao)
+* [Google Scholar](https://scholar.google.com/citations?user=BTGMcAoAAAAJ&hl=en&oi=ao)
 
-3.[Researchgate](https://www.researchgate.net/profile/Carter_Daniels)
+* [Researchgate](https://www.researchgate.net/profile/Carter_Daniels)
 
-4.[Open Science Framework](https://osf.io/profile/)
+* [Open Science Framework](https://osf.io/profile/)
 
