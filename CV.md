@@ -15,9 +15,10 @@ Here you will find some selected works that of which I am particularly fond and 
 
 ## Conference Presentations
 
-1. **Daniels, C.W.**, Gupta, T.A., Sanabria, F. A kernel density inspired Bayesian model of interval timing: predicting and accounting for prior distributions and likelihood functions. Oral presentation at the Society for Neuroscience Annual Meeting, 2018, San Diego, CA and the XIX Biennial Meeting of the International Society for Comparative Psychology, 2018, Los Angeles, C.A.
-2. **Daniels, C.W.**, Espinoza, J.I., Gupta, T.A., Smith, B.H., Sanabria, F. Mice can learn a complex instrumental olfactory patterning task. Oral and poster presentation at the Annual Meeting of the Society for the Quantitative Analysis of Behavior, 2018, San Diego, CA.
-3. **Daniels, C.W.**, Stephens, M.J., Newbern, J., Sanabria, F. On the sensitivity of two time-based response-withholding tasks to non-timing variables. oral presentation at the Annual Convention of the Association for Behavior Analysis, 2018, San Diego, CA. 
+1. **Daniels, C.W.**, Balsam, P.D.Prior Experience Affects Response-Sampling Strategies in the Pre-Solution Period Thus Both Expediting and Delaying Mastery of Auditory Signal Detection in Mice. Poster presentation at the Virtual Conference of the Pavlovian Society, 2020.
+2. **Daniels, C.W.**, Gupta, T.A., Sanabria, F. A kernel density inspired Bayesian model of interval timing: predicting and accounting for prior distributions and likelihood functions. Oral presentation at the Society for Neuroscience Annual Meeting, 2018, San Diego, CA and the XIX Biennial Meeting of the International Society for Comparative Psychology, 2018, Los Angeles, C.A.
+3. **Daniels, C.W.**, Espinoza, J.I., Gupta, T.A., Smith, B.H., Sanabria, F. Mice can learn a complex instrumental olfactory patterning task. Oral and poster presentation at the Annual Meeting of the Society for the Quantitative Analysis of Behavior, 2018, San Diego, CA.
+
 
 
 ## Education Contributions
