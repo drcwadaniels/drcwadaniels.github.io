@@ -10,7 +10,7 @@ Here you will find some selected works that of which I am particularly fond and 
 
 ## Pre-prints
 
-1.**Daniels, C. W.**, & Balsam, P.D. (2020, December 5). Prior Experience Affects Response-Strategy in the Pre-Solution Period Thus Affecting Learning of Auditory Signal Detection. https://doi.org/10.31234/osf.io/bzu4y
+1. **Daniels, C. W.**, & Balsam, P.D. (2020, December 5). Prior Experience Affects Response-Strategy in the Pre-Solution Period Thus Affecting Learning of Auditory Signal Detection. https://doi.org/10.31234/osf.io/bzu4y
 2. **Daniels, C.W.**, Sanabria, F. (2019, November 26). Interval timing and motivation are dissociable when interval-initiating responses are discriminable from target responses. doi: 10.31234/osf.io/9j3k2
 3. Holter, M.C., Hewitt, L.T., Nihismura, K.J., Bjorklund, G.R., Shah, S., Fry, N.R., Reese, K.P., Gupta, T.A., **Daniels, C.W.**, Li, G., Marsh, S., Treiman, D.M., Olive, M.F., Anderson, T.R., Sanabria, F., Snider, W.D., & Newbern, J.M. (2019, September 6). Hyperactive MEK1 signaling inc ortical GABAergic interneurons causes embryonic parvalbumin-neuron death and deficits in behavioral inhibition. doi: 10.1101/748087
 
