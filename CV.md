@@ -10,15 +10,15 @@ Here you will find some selected works that of which I am particularly fond and 
 
 ## Pre-prints
 
-1. **Daniels, C. W.**, & Balsam, P.D. (2020, December 5). Prior Experience Affects Response-Strategy in the Pre-Solution Period Thus Affecting Learning of Auditory Signal Detection. doi: 10.31234/osf.io/bzu4y
-2. **Daniels, C.W.**, Sanabria, F. (2019, November 26). Interval timing and motivation are dissociable when interval-initiating responses are discriminable from target responses. doi: 10.31234/osf.io/9j3k2
-3. Holter, M.C., Hewitt, L.T., Nihismura, K.J., Bjorklund, G.R., Shah, S., Fry, N.R., Reese, K.P., Gupta, T.A., **Daniels, C.W.**, Li, G., Marsh, S., Treiman, D.M., Olive, M.F., Anderson, T.R., Sanabria, F., Snider, W.D., & Newbern, J.M. (2019, September 6). Hyperactive MEK1 signaling inc ortical GABAergic interneurons causes embryonic parvalbumin-neuron death and deficits in behavioral inhibition. doi: 10.1101/748087
+1. **Daniels, C. W.**, & Balsam, P.D. (2020, December 5; Submitted to Animal Cognition). Prior Experience Affects Response-Strategy in the Pre-Solution Period Thus Affecting Learning of Auditory Signal Detection. doi: 10.31234/osf.io/bzu4y
+2. **Daniels, C.W.**, Sanabria, F. (2019, November 26; Pending Resubmission to Journal of Experimental Psychology: Animal Learning & Cognition). Interval timing and motivation are dissociable when interval-initiating responses are discriminable from target responses. doi: 10.31234/osf.io/9j3k2
+3. Holter, M.C., Hewitt, L.T., Nihismura, K.J., Bjorklund, G.R., Shah, S., Fry, N.R., Reese, K.P., Gupta, T.A., **Daniels, C.W.**, Li, G., Marsh, S., Treiman, D.M., Olive, M.F., Anderson, T.R., Sanabria, F., Snider, W.D., & Newbern, J.M. (2019, September 6; Accepted at Cerebral Cortex). Hyperactive MEK1 signaling inc ortical GABAergic interneurons causes embryonic parvalbumin-neuron death and deficits in behavioral inhibition. doi: 10.1101/748087
 
 ## Conference Presentations
 
-1. **Daniels, C.W.**, Balsam, P.D. Prior Experience Affects Response-Sampling Strategies in the Pre-Solution Period Thus Both Expediting and Delaying Mastery of Auditory Signal Detection in Mice. Poster presentation at the Virtual Conference of the Pavlovian Society, 2020.
-2. **Daniels, C.W.**, Gupta, T.A., Sanabria, F. A kernel density inspired Bayesian model of interval timing: predicting and accounting for prior distributions and likelihood functions. Oral presentation at the Society for Neuroscience Annual Meeting, 2018, San Diego, CA and the XIX Biennial Meeting of the International Society for Comparative Psychology, 2018, Los Angeles, C.A.
-3. **Daniels, C.W.**, Espinoza, J.I., Gupta, T.A., Smith, B.H., Sanabria, F. Mice can learn a complex instrumental olfactory patterning task. Oral and poster presentation at the Annual Meeting of the Society for the Quantitative Analysis of Behavior, 2018, San Diego, CA.
+1. **Daniels, CW.**, Balsam, P.D. Prior Experience Affects Response-Sampling Strategies in the Pre-Solution Period Thus Both Expediting and Delaying Mastery of Auditory Signal Detection in Mice. Poster presentation at the Virtual Conference of the Pavlovian Society, 2020.
+2. Kubas-Meyer, A.F., **Daniels, CW.**, Balsam, P.D. Lisuride Dose-Dependently Affects Execution but Does-Independently Affects Choice in a Bisection Task. Poster presentation at the Virtual Conference of the Eastern Psychological Association (EPA), 2020. 
+3. Gupta, T.A., **Daniels, C.W.**, Ortiz, J.B., Stephens, M., Overby, P.F., Romero, K., Conrad, C.D., & Sanabria, F. The dorsal hippocampus selectively controls the start of timed responses: a lesion study using the switch-timing task. Poster presentation at the 2nd Conference of the Timing Research Forum (TRF2), 2019, Queretaro, Mexico.
 
 
 
