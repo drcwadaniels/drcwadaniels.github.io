@@ -1,5 +1,5 @@
 # Updates!
-Most recent: 9/13/2020 @ 8:02 pm (broken links fixed)
+Most recent: 2/3/2021 @ 11:49pm
 
 1. Updated CV portion of website to better reflect most recent conferences and where papers have been submitted and/or accepted. 
 2. First pre-print up from my post-doc is up! Enjoy [learning](https://psyarxiv.com/bzu4y) about the composition of acquisition and how its affected by prior experience. 
