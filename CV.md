@@ -4,7 +4,7 @@ Here you will find some selected works that of which I am particularly fond and 
 
 ## Peer-reviewed Work 
 
-1. Holter, M.C., Hewitt, L.T., Nihismura, K.J., Bjorklund, G.R., Shah, S., Fry, N.R., Reese, K.P., Gupta, T.A., **Daniels, C.W.**, Li, G., Marsh, S., Treiman, D.M., Olive, M.F., Anderson, T.R., Sanabria, F., Snider, W.D., & Newbern, J.M. (2021). Cerebral Cortex, In Press. doi: 10.1093/cercor/bhaa413
+1. Holter, M.C., Hewitt, L.T., Nihismura, K.J., Bjorklund, G.R., Shah, S., Fry, N.R., Reese, K.P., Gupta, T.A., **Daniels, C.W.**, Li, G., Marsh, S., Treiman, D.M., Olive, M.F., Anderson, T.R., Sanabria, F., Snider, W.D., & Newbern, J.M. (2021). Hyperactive MEK1 Signaling in Cortical GABAergic Neurons Promotes Embryonic Parvalbumin Neuron Loss and Defects in Behavioral Inhibition, Cerebral Cortex, In Press. doi: 10.1093/cercor/bhaa413
 2. Sanabria, F., **Daniels,C.W.**, Gupta, T.A., Santos, C. (2019). A computational formulation of the behavior systems account fo the temporal organization of motivated behavior. *Behavioural Processes*, 103952. doi: 10.1016/j.beproc.2019.103952
 3. **Daniels, C.W.**, Sanabria, F. (2018) An associability decay model of paradoxical choice. *Journal of Experimental Psychology: Animal Learning & Cognition*, 44(3), 258-271. doi: 10.1037/xan0000179
 
