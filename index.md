@@ -8,7 +8,6 @@ Reach me at carter.wa.daniels@gmail.com
 
 * [Curriculum Vitae](CV.md)
 * [Code](code.md)
-* [Photography](photography.md)
 * [Writing](writing.md)
 * [Updates](updates.md) <- This is where I post blog updates and will always be updated when the website is updated. 
 
