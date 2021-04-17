@@ -1,5 +1,5 @@
 # Updates!
-Most recent: 4/16/2021 @ 11:05pm
+Most recent: 4/16/2021 @ 9:53pm
 
 1. I have committed to doing some non-work coding projects. See the [coding page](code.md) for more information, the first project is Steam Races!
 2. A new paper is published. Some exiciting work in which I got to collaborate on; one of my first real neuroscience studies. Very happy to be co-author revealing how hyperactive MEK1 signaling affects behavioral inhibition in [mice](https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhaa413/6132785?redirectedFrom=fulltext)
