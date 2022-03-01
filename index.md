@@ -12,7 +12,7 @@ Reach me at carter.wa.daniels@gmail.com
 * [Tinkering](tinkering.md)
 * [Writings](writing.md)
 * [Resume]
-* [CV]
+* [CV](https://www.dropbox.com/s/maxim4tg395hzhd/Daniels_CV_2022.pdf?dl=0)
 
 
 ## Social Media
