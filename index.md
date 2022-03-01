@@ -10,8 +10,8 @@ Reach me at carter.wa.daniels@gmail.com
 
 * [Backlog](backlog.md)
 * [Tinkering](tinkering.md)
-* [Writings](writing.md)
-* [Resume]
+* [Writings](writings.md)
+* [Resume](https://www.dropbox.com/s/k942w0cowfw3ud8/Daniels_Resume_2022.pdf?dl=0)
 * [CV](https://www.dropbox.com/s/maxim4tg395hzhd/Daniels_CV_2022.pdf?dl=0)
 
 
