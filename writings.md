@@ -1,7 +1,6 @@
 # Writings
-Most recent: 2/28/2022 @ 10:28 pm
+Most recent: 8/10/2023 @ 1:12 am
 
-Still empty. But do not worry. I'm submitting work to journals as I type this; so maybe in the next year? 
-
+1. Check out a paper from my post-doc where I suggest [mice live in a multiverse](https://link.springer.com/article/10.1007/s10071-023-01769-y) 
 
 
