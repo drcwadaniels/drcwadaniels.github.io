@@ -11,8 +11,8 @@ Reach me at carter.wa.daniels@gmail.com
 * [Backlog](backlog.md)
 * [Tinkering](tinkering.md)
 * [Writings](writings.md)
-* [Resume](https://www.dropbox.com/s/k942w0cowfw3ud8/Daniels_Resume_2022.pdf?dl=0)
-* [CV](https://www.dropbox.com/s/maxim4tg395hzhd/Daniels_CV_2022.pdf?dl=0)
+* [Resume](https://www.dropbox.com/scl/fi/zy3ao4xn8rgciemmbnx9p/CWDaniels_Resume.pdf?rlkey=sgy50ez38eib50tvec9myheg3&dl=0)
+* [CV](https://www.dropbox.com/scl/fi/15y4v3j78dgmbtd0kwqiy/CV_newversion.pdf?rlkey=77p7xbjk98ecxdh5pg19zursx&dl=0)
 
 
 ## Social Media
