@@ -127,6 +127,20 @@ h3 {
     text-transform: uppercase;
 }
 
+.zine-link {
+    color: var(--ink-black); /* Keep it black or use var(--accent-red) */
+    text-decoration: none; 
+    border-bottom: 2px solid var(--ink-black); /* A rough underline instead of a default one */
+    transition: all 0.2s ease;
+}
+
+.zine-link:hover {
+    background-color: var(--accent-red);
+    color: white;
+    border-bottom: 2px solid var(--accent-red);
+}
+
+
 /* Mobile Responsiveness */
 @media (max-width: 900px) {
     .zine-grid {

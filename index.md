@@ -22,7 +22,7 @@ Reach me at carter.wa.daniels@gmail.com
 
 ## A Zine
 
-* [Current Zine](zine.hhtml)
+* [Current Zine](zine.html)
 
 ### Old Zines
 
