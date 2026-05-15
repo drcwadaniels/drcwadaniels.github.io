@@ -20,3 +20,10 @@ Reach me at carter.wa.daniels@gmail.com
 * [Open Science Framework](https://osf.io/rvbd6/)
 * [LinkedIn](https://www.linkedin.com/in/carter-daniels-8b516b208)
 
+## A Zine
+
+* [Current Zine](zine.hhtml)
+
+### Old Zines
+
+Archived zines will be linked here. 
