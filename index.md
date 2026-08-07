@@ -19,11 +19,3 @@ Reach me at carter.wa.daniels@gmail.com
 * [Researchgate](https://www.researchgate.net/profile/Carter_Daniels)
 * [Open Science Framework](https://osf.io/rvbd6/)
 * [LinkedIn](https://www.linkedin.com/in/carter-daniels-8b516b208)
-
-## A Zine
-
-* [Current Zine](zine.html)
-
-### Old Zines
-
-Archived zines will be linked here. 
